@@ -1,4 +1,4 @@
-## Abdullah-Malik
+## Abdullah Malik
 # My personal repository
 
 I am an Engineering Sciences undergraduate specializing in **Modeling, Simulation, and Machine Learning (MSML)** at **GIKI**. I am passionate about combining advanced mathematical modeling with computational skills to solve real-world engineering problems.
